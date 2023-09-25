@@ -1,3 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: blue;  /*#f0f0f0*/
+}
+
+.contenedor {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+
 /* Estilos para el encabezado (header) */
 
 body {
