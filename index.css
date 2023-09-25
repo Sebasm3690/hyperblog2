@@ -1,4 +1,9 @@
 /* Estilos para el encabezado (header) */
+
+body {
+    background-color: blanchedalmond;
+}
+
 header {
     background-color: #333;
     color: #fff;
