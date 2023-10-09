@@ -11,5 +11,6 @@ El verdadero amor por las buenas prácticas
 Trucos muy locos del profesor
 Las personalidades multiples de Freddy
 Creado por Sebastián Merino
+Incluye ejemplos en Windows Linux y Mac
 
 **Espero disfruten leyendo este readme.md**
