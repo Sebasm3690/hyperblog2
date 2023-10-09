@@ -10,5 +10,6 @@ Flujo de trabajo de Git Hub
 El verdadero amor por las buenas prácticas
 Trucos muy locos del profesor
 Las personalidades multiples de Freddy
+Creado por Sebastián Merino
 
 **Espero disfruten leyendo este readme.md**
